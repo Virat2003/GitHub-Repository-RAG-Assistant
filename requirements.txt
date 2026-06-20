@@ -13,6 +13,7 @@ langchain-huggingface
 sentence-transformers
 
 # Vector Database
+langchain-chroma
 chromadb
 
 # GitHub Repository Loading
@@ -20,19 +21,11 @@ gitpython
 
 # Document Loaders
 pypdf
-unstructured
-markdown
+
 
 # Environment Variables
 python-dotenv
 
-# Token Counting
-tiktoken
-
 # Web UI
 streamlit
 
-
-# API
-fastapi
-uvicorn
