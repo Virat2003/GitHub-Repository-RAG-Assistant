@@ -5,3 +5,7 @@ venv/
 env/
 
 .env
+
+
+chroma_db/
+data/repositories/
